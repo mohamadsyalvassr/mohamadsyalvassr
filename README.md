@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadsyalvasr" alt="mohamadsyalvasr" /></a> </p>
 
-- 🔭 I’m currently working on [Bumicode](https://github.com/bumicode)
-- 🌱 I’m currently learning **Vue, Express and C#**
+- 🌱 I’m currently learning **Oracle Cloud Infrastructure**
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **msyalva.freelancer@gmail.com**
