@@ -5,6 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadsyalvasr" alt="mohamadsyalvasr" /></a> </p>
 
-- 🌱 I’m currently learning **Oracle Cloud Infrastructure**
+- 🌱 I’m currently learning **AWS Cloud**
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **msyalva.freelancer@gmail.com**
