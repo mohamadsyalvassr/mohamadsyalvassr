@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=mohamadsyalvasr" alt="mohamadsyalvasr" /></a>   </p>
 
-<p align="center">🌱 I’m currently learning <b>Cloud & DevSecOps</b> <br>
+<p align="center">🌱 I’m currently learning <b>Cloud Computing & DevSecOps</b> <br>
 💬 Ask me about <b>Laravel</b> <br>
 📫 How to reach me <b><a href="mailto:msyalva+freelancer@gmail.com">msyalva@gmail.com</a></b></p>
 
